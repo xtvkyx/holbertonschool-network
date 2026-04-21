@@ -2,3 +2,4 @@
 # This script displays all active IPv4 IPs
 
 hostname -I | tr ' ' '\n'
+echo "127.0.0.1"
